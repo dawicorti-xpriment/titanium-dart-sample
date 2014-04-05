@@ -1,0 +1,4 @@
+name: dart-titanium-sample
+dependencies:
+  browser:
+  hart:
