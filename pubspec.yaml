@@ -1,5 +1,5 @@
 name: dart-titanium-sample
 dependencies:
-  browser:
-  titanium-element:
-    path: ../titanium-element
+  titanium:
+    path: ../dart-titanium
+  thymium: 0.0.2
